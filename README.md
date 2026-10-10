@@ -1,4 +1,4 @@
-# Báo cáo tiến độ nghiên cứu ngày 03/10/2026
+# Báo cáo tiến độ nghiên cứu ngày 10/10/2026
 ## A. Công việc đã làm
 - Đồ thị khi không tác động mạch mới
 - Đồ thị khi không tác động mạch cũ
